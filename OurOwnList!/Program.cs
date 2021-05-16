@@ -16,7 +16,7 @@ namespace OurOwnList_
             {
                 listofbools.Addtolist(i);
             }
-
+            //changed a line
             listofbools.removefromlist(7);
             
             //listofbools.Addtolist();
